@@ -1,5 +1,7 @@
 # PatternCreator
-Generates a specific customisable pattern with php GD
+Generates a specific customisable pattern with php GD.
+
+![Example of random pattern](https://raw.githubusercontent.com/theseconddre/PatternCreator/master/examples/result.jpg)
 
 ## How to install my package? :-)
 
@@ -17,9 +19,7 @@ Then if you want to **generate a blue pattern made of squares** in your browser,
 <?php 
 
 /**
- ===========================
  	Example 1 : 
- ===========================
  */
 
 $pattern = new TheSecondDre\PatternCreator([
