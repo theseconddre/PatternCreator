@@ -1,6 +1,7 @@
 <?php
+namespace TheSecondDre;
 
-class CustomPattern
+class PatternCreator
 {
 	//private variables
 	private $width             =  1200;

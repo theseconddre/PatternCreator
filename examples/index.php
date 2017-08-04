@@ -1,6 +1,6 @@
 <?php 
 
-require_once '../src/CustomPattern.php';
+require_once '../src/PatternCreator.php';
 
 /**
  ===========================
@@ -8,7 +8,7 @@ require_once '../src/CustomPattern.php';
  ===========================
  */
 
-$pattern = new CustomPattern([
+$pattern = new TheSecondDre\PatternCreator([
 		'width' 	=>  1000,
 		'height' 	=>  1000,
 		'color' 	=>  '#7700ff',
@@ -24,7 +24,7 @@ die();
  ===========================
  */
 
-$img = $pattern->createPattern('save', '/Users/andre/www/custompattern/src/img_patterns/zefij.jpg');
+$img = $pattern->createPattern('save', '/Users/andre/www/PatternCreator/src/img_patterns/zefij.jpg');
 
 /**
  ===========================

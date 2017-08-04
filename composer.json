@@ -1,0 +1,20 @@
+{
+    "name": "theseconddre/pattern-creator",
+    "description": "Generates a specific customisable pattern with php GD",
+    "type": "library",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "André",
+            "email": "adehillerin@live.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+   "autoload": {
+        "psr-0": {
+            "theseconddre": "src/"
+        }
+    }
+}
