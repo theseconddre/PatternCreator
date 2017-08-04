@@ -13,8 +13,8 @@
     "require": {},
 
    "autoload": {
-        "psr-4": {
-            "theseconddre": "src/"
+        "psr-0": {
+            "TheSecondDre": "src"
         }
     }
 }
