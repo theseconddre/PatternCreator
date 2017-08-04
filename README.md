@@ -18,9 +18,8 @@ Then if you want to **generate a blue pattern made of squares** in your browser,
 ```php
 <?php 
 
-/**
- 	Example 1 : 
- */
+// Example 1 : display pattern in browser
+// See more examples in examples/index.php 
 
 $pattern = new TheSecondDre\PatternCreator([
 		'width' 	=>  1000,
