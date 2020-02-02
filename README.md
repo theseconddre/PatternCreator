@@ -1,5 +1,5 @@
 # PatternCreator
-Generates a specific customisable pattern with php GD.
+Generates a specific, customisable & graphic pattern with php GD.
 
 ![Example of random pattern](https://raw.githubusercontent.com/theseconddre/PatternCreator/master/examples/result.jpg)
 
